@@ -4,3 +4,4 @@ name: unlistedtest
 username: jesse
 coverImageUrl: https://www.gstatic.com/webp/gallery/1.jpg
 description: blah blah blahg111!!
+unlisted: true
